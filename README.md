@@ -1,4 +1,4 @@
-# vue_eventBus
+# eventBus-demo
 
 vue事件总线eventBus实现原理
 
