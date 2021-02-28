@@ -13,5 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "events": "^3.3.0"
   }
 }

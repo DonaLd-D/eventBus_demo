@@ -1,5 +1,5 @@
 const {eventBus,Vue}=require('./eventBus.js') 
-global.$eventBus=new Vue
+global.$eventBus=new Vue()
 
 let time=0,obj={id:time,name:"掘金"},arr=[]
 
